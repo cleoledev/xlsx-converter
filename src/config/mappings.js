@@ -1,0 +1,1 @@
+exports.CATEGORY = new Map([])
